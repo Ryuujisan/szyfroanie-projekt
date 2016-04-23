@@ -1,9 +1,9 @@
-#include <iostrem>
+#include "menu.h"
 
 using namespace std;
 
 void main()
 {
-
+	menu();
 
 }
